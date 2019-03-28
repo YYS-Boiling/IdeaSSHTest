@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IdeaSSHTest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IdeaSSHTest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IdeaSSHTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IdeaSSHTest" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Struts 2-2.5.14.1" />
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Hibernate 5.3.2-5.3.2" />
+          <element id="library" level="project" name="mysql:mysql-connector-java:5.1.47" />
+          <element id="library" level="project" name="org.apache.commons:commons-dbcp2:2.1" />
+          <element id="library" level="project" name="spring-web-3.0.5.RELEASE" />
+          <element id="library" level="project" name="struts2-spring-plugin-2.3.24" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/IdeaSSHTest"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 8.5.23" scope="PROVIDED"/>
+	<levels>
+		<level name="Struts 2-2.5.14.1" value="project"/>
+		<level name="Tomcat 8.5.23" value="application_server_libraries"/>
+		<level name="Spring-4.3.18.RELEASE" value="project"/>
+		<level name="Hibernate 5.3.2-5.3.2" value="project"/>
+		<level name="mysql:mysql-connector-java:5.1.47" value="project"/>
+		<level name="org.apache.commons:commons-dbcp2:2.1" value="project"/>
+		<level name="spring-web-3.0.5.RELEASE" value="project"/>
+		<level name="struts2-spring-plugin-2.3.24" value="project"/>
+	</levels>
+</component>
